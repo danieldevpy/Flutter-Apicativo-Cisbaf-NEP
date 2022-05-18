@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904388317476",
+    "project_id": "cisbaf-nep",
+    "storage_bucket": "cisbaf-nep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904388317476:android:bbba462235fba740db23b1",
+        "android_client_info": {
+          "package_name": "com.aplicativo.cisbaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904388317476-8be2flc165rujjvf1bjlq5jvnpgelmmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb7_RZMAu3sJZtzATbC92vVJF63AnTFH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904388317476-8be2flc165rujjvf1bjlq5jvnpgelmmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
